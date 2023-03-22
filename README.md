@@ -1,7 +1,5 @@
 # >_ Hi, there! I am Daniel, @dydco. :wave:
 
--------
-
 * 🧠 I am a multilingual marketing strategist and data analyst.
 * 🎓 I hold a Master's degree (_Mag.rer.soc.oec._) from the Vienna University of Economics and Business Administration in Austria.
 * 🚀 I am currently honing in on my Python :snake: skills as I aspire a transition to a data science career.
