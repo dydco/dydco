@@ -1,5 +1,5 @@
-# >_ Hi, there! I am Daniel, @dydco. :wave:
-##   Hello | Servus | Привет | שלום
+# >_ Hi, there! I am Daniel Dimitrov, @dydco. 🧑‍💻
+## 👋 Hello | Servus | Привет | שלום
 
 * 🧠 I am a multilingual marketing strategist and data analyst.
 * 🎓 I hold a Master's degree (_Mag.rer.soc.oec._) from the Vienna University of Economics and Business Administration in Austria.
