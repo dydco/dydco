@@ -1,7 +1,7 @@
 # >_ Hi, there! I am Daniel Dimitrov, @dydco. 🧑‍💻
 ## 👋 Hello / Servus / Привет / שלום
 
-* 🧠 I am a multilingual marketing strategist and data analyst.
+* 🧠 I am a multilingual data scientist and marketing analyst.
 * 🎓 I hold a Master's degree (_Mag.rer.soc.oec._) from the Vienna University of Economics and Business Administration in Austria.
 * 🚀 I am currently honing in on my Python :snake: skills as I aspire a transition to a data science career.
 * 🖥 I prefer working on UNIX systems (GNU/Linux :penguin: , Mac).
