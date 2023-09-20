@@ -7,4 +7,4 @@
 * 🖥 I prefer working on UNIX systems (GNU/Linux :penguin: , Mac).
 * 🗺 I am fluent in four languages :bulgaria: :austria: :us: :ru:, and I have studied in five countries on three continents.
 * 💖 I love traveling, jazz, art, cooking, and swimming. 
-* 🦾 ![tech stack](assets/tech_stack_16.png)
+* 🦾 ![tech stack](assets/tech_stack_24.png)
